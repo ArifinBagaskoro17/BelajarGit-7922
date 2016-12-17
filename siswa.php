@@ -1,5 +1,7 @@
 <?php 
 
+//tambah komen
+
 //contoh komentar
 //---------------
 require_once('lib/DBClass.php');
